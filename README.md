@@ -36,4 +36,4 @@ Este projeto foi desenvolvido para criar uma solução prática e automatizada d
 
 ---
 
-💻 *Projeto desenvolvido para a Formação em Dados / Excel da DIO.*
+💻 *Projeto desenvolvido para a Formação em Santander Excel / com IA e Claude da DIO.*
